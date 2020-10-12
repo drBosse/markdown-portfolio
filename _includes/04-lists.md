@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Favorites
+  - :cat:
+  - :beer:
+  - :japan:
