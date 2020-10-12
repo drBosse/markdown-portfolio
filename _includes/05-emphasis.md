@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+20+ years _experience_ in **embedded software**, working as a _consultant_ helping teams to apply _**Lean** and **Agile**_ to SW development 
