@@ -1,0 +1,4 @@
+- Favorites
+  - :cat:
+  - :beer:
+  - :japan:
